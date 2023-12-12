@@ -12,18 +12,14 @@
 # Android Demo
 
 ## 1. 简介
-此为PaddleOCR的Android Demo，目前支持文本检测，文本方向分类器和文本识别模型的使用。使用 [PaddleLite v2.10](https://github.com/PaddlePaddle/Paddle-Lite/tree/release/v2.10) 进行开发。
+此为PaddleOCR的Android Demo，目前支持文本检测，文本方向分类器和文本识别模型的使用。使用 [PaddleLite v2.13RC](https://github.com/PaddlePaddle/Paddle-Lite/tree/v2.13-rc) 进行开发。
 
 ## 2. 近期更新
-* 2022.02.27
-    * 预测库更新到PaddleLite v2.10
-    * 支持6种运行模式：
-      * 检测+分类+识别
-      * 检测+识别
-      * 分类+识别
-      * 检测
-      * 识别
-      * 分类
+* 2023.12.12
+    * 预测库更新到PaddleLite v2.13-rc
+    * 文本检测模型更新到ch_PP-OCRv4_det
+    * 文本识别模型更新到ch_PP-OCRv4_rec
+    * 文本方向分类模型更新到ch_ppocr_mobile_v2.0_cls
 
 ## 3. 快速使用
 
