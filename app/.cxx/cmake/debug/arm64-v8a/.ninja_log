@@ -10,3 +10,6 @@
 1	3111	724070104	CMakeFiles/Native.dir/native.cpp.o	705d6ecd11d7541f
 115	3285	724070104	CMakeFiles/Native.dir/ocr_ppredictor.cpp.o	48b4071cfd12fa95
 3285	3845	724070105	F:/Perspace/Android/APaddleOCR/app/build/intermediates/cmake/debug/obj/arm64-v8a/libNative.so	51fc688af33e6edb
+3	1285	724153739	F:/Perspace/Android/APaddleOCR/app/build/intermediates/cmake/debug/obj/arm64-v8a/libNative.so	51fc688af33e6edb
+3	487	724154228	F:/Perspace/Android/APaddleOCR/app/build/intermediates/cmake/debug/obj/arm64-v8a/libNative.so	958d99cacbc1aae8
+4	491	724154268	F:/Perspace/Android/APaddleOCR/app/build/intermediates/cmake/debug/obj/arm64-v8a/libNative.so	958d99cacbc1aae8

@@ -302,7 +302,7 @@ public class MainActivity extends AppCompatActivity {
     public boolean onCreateOptionsMenu(Menu menu) {
         MenuInflater inflater = getMenuInflater();
         inflater.inflate(R.menu.menu_action_options, menu);
-        return true;
+        return false;
     }
 
     public boolean onPrepareOptionsMenu(Menu menu) {

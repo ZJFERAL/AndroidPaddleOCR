@@ -56,8 +56,8 @@ set_target_properties(
         # Specifies the parameter you want to define.
         PROPERTIES
         IMPORTED_LOCATION
-#        ${PaddleLite_DIR}/cxx/libs/${ANDROID_ABI}/libpaddle_light_api_shared.so
-        ${PaddleLite_DIR}/cxx/lib/libpaddle_light_api_shared.so
+        ${PaddleLite_DIR}/cxx/libs/${ANDROID_ABI}/libpaddle_light_api_shared.so
+        #        ${PaddleLite_DIR}/cxx/lib/libpaddle_light_api_shared.so
         # Provides the path to the library you want to import.
 )
 
@@ -90,8 +90,8 @@ add_custom_command(
         POST_BUILD
         COMMAND
         ${CMAKE_COMMAND} -E copy
-#        ${PaddleLite_DIR}/cxx/libs/${ANDROID_ABI}/libpaddle_light_api_shared.so
-        ${PaddleLite_DIR}/cxx/lib/libpaddle_light_api_shared.so
+        ${PaddleLite_DIR}/cxx/libs/${ANDROID_ABI}/libpaddle_light_api_shared.so
+#        ${PaddleLite_DIR}/cxx/lib/libpaddle_light_api_shared.so
         ${CMAKE_LIBRARY_OUTPUT_DIRECTORY}/libpaddle_light_api_shared.so)
 
 #add_custom_command(

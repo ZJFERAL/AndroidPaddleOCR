@@ -20,7 +20,7 @@
       "abi": "arm64-v8a",
       "output": "F:\\Perspace\\Android\\APaddleOCR\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libNative.so",
       "runtimeFiles": [
-        "F:\\Perspace\\Android\\APaddleOCR\\app\\PaddleLite\\cxx\\lib\\libpaddle_light_api_shared.so"
+        "F:\\Perspace\\Android\\APaddleOCR\\app\\PaddleLite\\cxx\\libs\\arm64-v8a\\libpaddle_light_api_shared.so"
       ]
     }
   }

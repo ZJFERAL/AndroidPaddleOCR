@@ -187,7 +187,6 @@
       "project": {
         "compilerSettingsCacheFolder": "F:\\Perspace\\Android\\APaddleOCR\\.cxx",
         "cxxFolder": "F:\\Perspace\\Android\\APaddleOCR\\.cxx",
-        "ideBuildTargetAbi": "arm64-v8a,armeabi-v7a,armeabi",
         "isBuildOnlyTargetAbiEnabled": true,
         "isCmakeBuildCohabitationEnabled": false,
         "isNativeCompilerSettingsCacheEnabled": false,
@@ -211,6 +210,7 @@
     "objFolder": "F:\\Perspace\\Android\\APaddleOCR\\app\\build\\intermediates\\cmake\\debug\\obj",
     "variantName": "debug",
     "validAbiList": [
+      "ARMEABI_V7A",
       "ARM64_V8A"
     ],
     "prefabDirectory": "F:\\Perspace\\Android\\APaddleOCR\\app\\.cxx\\cmake\\debug\\prefab",
