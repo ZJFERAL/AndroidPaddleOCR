@@ -1,3 +1,0 @@
-F:/Perspace/Android/APaddleOCR/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/Native.dir
-F:/Perspace/Android/APaddleOCR/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
-F:/Perspace/Android/APaddleOCR/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
